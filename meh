@@ -1,0 +1,10 @@
+
+String_list = [365,"the number of days","in the standard year"]
+def p2in3er():
+    for i in String_list:
+        print i
+    
+    
+ 
+
+p2in3er()
